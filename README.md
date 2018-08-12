@@ -1,6 +1,8 @@
 # Config Loader
 Biblioteca para carregar um arquivo de configurações e setar seus valores em  uma instância de uma classe de configuração através de Reflection.
 
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.matheusviegas/configloader.svg?label=Maven%20Central)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.github.matheusviegas%22%20a%3A%22configloader%22)
+
 ## Baixando/Instalando
 
 Esta biblioteca está disponível no repositório central do Maven, portanto para baixar/instalar basta adicionar a dependencia no seu **pom.xml**.
@@ -12,7 +14,7 @@ Esta biblioteca está disponível no repositório central do Maven, portanto par
 </dependency>
 ```
 
-Ou baixar o **.jar** na página do repositório central https://search.maven.org/classic/#artifactdetails%7Ccom.github.matheusviegas%7Cconfigloader%7C1.0.0%7Cjar
+Ou baixar o **.jar** na página do repositório central https://search.maven.org/artifact/com.github.matheusviegas/configloader/1.0.0/jar
 
 ## Como Utilizar
 
