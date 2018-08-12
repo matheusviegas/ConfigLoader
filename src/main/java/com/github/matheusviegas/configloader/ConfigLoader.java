@@ -14,7 +14,7 @@ import java.util.stream.Stream;
 /**
  *
  * @author Matheus Souza 
- * https://github.com/matheusviegas 
+ * https://github.com/matheusviegas/ConfigLoader 
  * https://mvsouza.com.br
  *
  * Biblioteca para carregar um arquivo de configurações e setar seus valores em
