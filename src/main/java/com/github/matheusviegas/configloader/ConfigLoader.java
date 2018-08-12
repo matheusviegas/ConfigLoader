@@ -1,4 +1,4 @@
-package br.com.mvsouza.configloader;
+package com.github.matheusviegas.configloader;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
